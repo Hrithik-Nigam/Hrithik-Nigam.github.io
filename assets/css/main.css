@@ -2292,8 +2292,8 @@ button,
       height: 130px ;
     }
     .uploads{
-      width: 650px !important;
-      height: 650px !important;
+      width: 100% !important;
+      height: 100% !important;
       display: inline-block !important;
       padding: 10px !important;
     }
